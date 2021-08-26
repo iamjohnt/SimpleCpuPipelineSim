@@ -2,6 +2,8 @@
 
 A project done for a computer architecture course, written in Java. This project simulates a simplified MIPS CPU. You can feed the program a sequence of CPU instructions, and it can display the state of the pipeline registers, as the it moves through the CPU's pipeline'd datapath. 
 
+![screenshot of example console output](https://github.com/iamjohnt/SimpleCpuPipelineSim/blob/master/screenshot.PNG)
+
 # Installation
 
 Clone this repo, and run in any Java IDE. 
